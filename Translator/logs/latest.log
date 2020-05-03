@@ -1,23 +1,9 @@
-2020-05-03 13:07:13.573 [main] I - [37;1m******************************************[0m
-2020-05-03 13:07:13.673 [main] I - [37;1m[0m
-2020-05-03 13:07:13.682 [main] I - [37;1mLoading Geyser version 1.0-SNAPSHOT[0m
-2020-05-03 13:07:13.688 [main] I - [37;1m[0m
-2020-05-03 13:07:13.688 [main] I - [37;1m******************************************[0m
-2020-05-03 13:07:23.771 [main] I - [37;1mStarted Geyser on 0.0.0.0:19190[0m
-2020-05-03 13:07:23.781 [main] I - [37;1mDone (10.211s)! Run /geyser help for help![0m
-2020-05-03 17:35:35.147 [Network Listener - #1] I - [37;1m/127.0.0.1:59876 tried to connect![0m
-2020-05-03 17:35:35.647 [Network Listener - #1] I - [37;1m/127.0.0.1:59877 tried to connect![0m
-2020-05-03 17:35:36.401 [Network Listener - #1] I - [37;1mBedrock user with ip: /127.0.0.1 has disconnected for reason CLOSED_BY_REMOTE_PEER[0m
-2020-05-03 17:39:50.618 [Network Listener - #1] I - [37;1m/127.0.0.1:58032 tried to connect![0m
-2020-05-03 17:39:51.216 [Network Listener - #1] I - [37;1mBedrock user with ip: /127.0.0.1 has disconnected for reason CLOSED_BY_REMOTE_PEER[0m
-2020-05-03 18:52:24.131 [Network Listener - #1] I - [37;1m/192.168.31.91:49225 tried to connect![0m
-2020-05-03 18:52:24.979 [Network Listener - #1] I - [37;1mPlayer connected with username YuZiOvO[0m
-2020-05-03 18:52:29.263 [Network Listener - #1] I - [37;1mAttempting to login using offline mode... authentication is disabled.[0m
-2020-05-03 18:52:29.510 [nioEventLoopGroup-2-1] I - [37;1mYuZiOvO (logged in as: YuZiOvO) has connected to remote java server on address 127.0.0.1[0m
-2020-05-03 18:52:30.180 [Thread-15] I - [37;1mSpawned player at -546.6790736520691 63.0 961.886974253523[0m
-2020-05-03 18:59:40.865 [Thread-15] I - [37;1mSpawned player at -53.5 51.332261472591625 111.3299560546875[0m
-2020-05-03 18:59:52.209 [Thread-15] I - [37;1mSpawned player at -516.7041397094727 64.0 948.5[0m
-2020-05-03 19:19:55.221 [Network Listener - #10] I - [37;1mBedrock user with ip: /192.168.31.91 has disconnected for reason TIMED_OUT[0m
-2020-05-03 19:19:55.224 [nioEventLoopGroup-2-1] I - [37;1mYuZiOvO has disconnected from remote java server on address 127.0.0.1 because of TIMED_OUT[0m
-2020-05-03 19:20:21.230 [main] I - [37;1mShutting down Geyser.[0m
-2020-05-03 19:20:21.233 [main] I - [37;1mGeyser shutdown successfully.[0m
+2020-05-03 19:41:37.964 [main] I - [37;1m******************************************[0m
+2020-05-03 19:41:37.969 [main] I - [37;1m[0m
+2020-05-03 19:41:37.970 [main] I - [37;1mLoading Geyser version 1.0-SNAPSHOT[0m
+2020-05-03 19:41:37.971 [main] I - [37;1m[0m
+2020-05-03 19:41:37.972 [main] I - [37;1m******************************************[0m
+2020-05-03 19:41:42.887 [main] I - [37;1mStarted Geyser on 0.0.0.0:19190[0m
+2020-05-03 19:41:42.895 [main] I - [37;1mDone (4.935s)! Run /geyser help for help![0m
+2020-05-03 22:11:18.719 [main] I - [37;1mShutting down Geyser.[0m
+2020-05-03 22:11:18.786 [main] I - [37;1mGeyser shutdown successfully.[0m
