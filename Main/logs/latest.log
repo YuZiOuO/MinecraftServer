@@ -1,25 +1,55 @@
-[12:05:10] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[12:05:10] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
-[12:05:11] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[12:05:11] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[12:05:11] [Server thread/INFO]: Starting minecraft server version 1.15.2
-[12:05:11] [Server thread/INFO]: Loading properties
-[12:05:11] [Server thread/INFO]: Default game type: SURVIVAL
-[12:05:11] [Server thread/INFO]: Generating keypair
-[12:05:11] [Server thread/INFO]: Starting Minecraft server on *:19190
-[12:05:11] [Server thread/INFO]: Using default channel type
-[12:05:13] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[12:05:13] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[12:05:13] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[12:05:13] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[12:05:13] [Server thread/INFO]: Preparing level "world"
-[12:05:13] [Server thread/INFO]: Reloading ResourceManager: Default
-[12:05:15] [Server thread/INFO]: Loaded 6 recipes
-[12:05:16] [Server thread/INFO]: Loaded 825 advancements
-[12:05:17] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[12:05:18] [Server thread/INFO]: Preparing spawn area: 0%
-[12:05:18] [Server thread/INFO]: Preparing spawn area: 0%
-[12:05:18] [Server thread/INFO]: Preparing spawn area: 0%
-[12:05:18] [Server thread/INFO]: Preparing spawn area: 0%
-[12:05:19] [Server thread/INFO]: Time elapsed: 1891 ms
-[12:05:19] [Server thread/INFO]: Done (5.855s)! For help, type "help"
+[13:07:15] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[13:07:15] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[13:07:15] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[13:07:15] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[13:07:15] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[13:07:16] [Server thread/INFO]: Starting minecraft server version 1.15.2
+[13:07:16] [Server thread/INFO]: Loading properties
+[13:07:16] [Server thread/INFO]: Default game type: SURVIVAL
+[13:07:16] [Server thread/INFO]: Generating keypair
+[13:07:16] [Server thread/INFO]: Starting Minecraft server on *:19190
+[13:07:16] [Server thread/INFO]: Using default channel type
+[13:07:18] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[13:07:18] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[13:07:18] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[13:07:18] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[13:07:18] [Server thread/INFO]: Preparing level "world"
+[13:07:18] [Server thread/INFO]: Reloading ResourceManager: Default
+[13:07:22] [Server thread/INFO]: Loaded 6 recipes
+[13:07:23] [Server thread/INFO]: Loaded 825 advancements
+[13:07:23] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[13:07:25] [Server thread/INFO]: Preparing spawn area: 0%
+[13:07:25] [Server thread/INFO]: Preparing spawn area: 0%
+[13:07:25] [Server thread/INFO]: Preparing spawn area: 0%
+[13:07:25] [Server thread/INFO]: Preparing spawn area: 0%
+[13:07:26] [Server thread/INFO]: Preparing spawn area: 0%
+[13:07:26] [Server thread/INFO]: Time elapsed: 2418 ms
+[13:07:26] [Server thread/INFO]: Done (7.603s)! For help, type "help"
+[13:11:00] [Server thread/INFO]: YuZiOvO[/127.0.0.1:54085] logged in with entity id 21 at (-592.0793560049591, 71.0, 928.2661994500648)
+[13:11:00] [Server thread/INFO]: YuZiOvO joined the game
+[13:11:14] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3079ms or 61 ticks behind
+[13:11:18] [Server thread/INFO]: [YuZiOvO: The difficulty has been set to Peaceful]
+[13:12:32] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2920ms or 58 ticks behind
+[13:25:22] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/1084, l='world', x=-547.83, y=62.00, z=912.68]
+[13:45:04] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/1959, l='world', x=-545.33, y=62.00, z=915.84]
+[13:59:55] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/2679, l='world', x=-547.57, y=62.00, z=912.99]
+[14:39:14] [Server thread/INFO]: [YuZiOvO: Set own game mode to Creative Mode]
+[14:39:18] [Server thread/INFO]: [YuZiOvO: Set own game mode to Survival Mode]
+[14:58:15] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/5581, l='world', x=-545.76, y=62.00, z=912.64]
+[15:22:05] [Server thread/INFO]: Villager axw['Villager'/296, l='world', x=-474.64, y=69.00, z=1031.29] died, message: 'Villager hit the ground too hard'
+[15:33:44] [Server thread/INFO]: [YuZiOvO: Set own game mode to Creative Mode]
+[15:33:49] [Server thread/INFO]: [YuZiOvO: Set own game mode to Survival Mode]
+[15:33:53] [Server thread/INFO]: [YuZiOvO: Teleported YuZiOvO to -587.5, 67.0, 927.5]
+[16:50:18] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/10407, l='world', x=-544.61, y=62.00, z=912.20]
+[17:33:21] [Server thread/INFO]: YuZiOvO lost connection: Disconnected
+[17:33:21] [Server thread/INFO]: YuZiOvO left the game
+[18:52:29] [Server thread/INFO]: YuZiOvO[/127.0.0.1:57505] logged in with entity id 11945 at (-546.6790736520691, 63.0, 961.886974253523)
+[18:52:29] [Server thread/INFO]: YuZiOvO joined the game
+[18:56:28] [Server thread/INFO]: [YuZiOvO: Set own game mode to Creative Mode]
+[18:58:15] [Server thread/INFO]: Villager axw['Villager'/12078, l='world', x=-474.86, y=68.00, z=1032.73] died, message: 'Villager hit the ground too hard'
+[19:19:55] [Server thread/INFO]: YuZiOvO lost connection: Disconnected
+[19:19:55] [Server thread/INFO]: YuZiOvO left the game
+[19:20:17] [Server thread/INFO]: Stopping server
+[19:20:17] [Server thread/INFO]: Saving players
+[19:20:17] [Server thread/INFO]: Saving worlds
+[19:20:17] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_nether
