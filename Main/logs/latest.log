@@ -1,0 +1,500 @@
+[13:23:39] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[13:23:39] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[13:23:39] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[13:23:39] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[13:23:40] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[13:23:40] [Server thread/INFO]: Starting minecraft server version 1.15.2
+[13:23:40] [Server thread/INFO]: Loading properties
+[13:23:40] [Server thread/INFO]: Default game type: SURVIVAL
+[13:23:40] [Server thread/INFO]: Generating keypair
+[13:23:40] [Server thread/INFO]: Starting Minecraft server on *:19190
+[13:23:40] [Server thread/INFO]: Using default channel type
+[13:23:43] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[13:23:43] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[13:23:43] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[13:23:43] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[13:23:43] [Server thread/INFO]: Preparing level "world"
+[13:23:43] [Server thread/INFO]: Reloading ResourceManager: Default
+[13:23:43] [Server thread/INFO]: Loaded 6 recipes
+[13:23:43] [Server thread/INFO]: Loaded 825 advancements
+[13:23:44] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[13:23:44] [Server thread/INFO]: Preparing spawn area: 0%
+[13:23:44] [Server thread/INFO]: Preparing spawn area: 0%
+[13:23:45] [Server thread/INFO]: Preparing spawn area: 54%
+[13:23:45] [Server thread/INFO]: Time elapsed: 1095 ms
+[13:23:45] [Server thread/INFO]: Done (2.059s)! For help, type "help"
+[13:29:57] [Server thread/INFO]: YuZiOvO[/127.0.0.1:50378] logged in with entity id 19 at (-597.2371035919871, 67.0, 928.7474960099217)
+[13:29:57] [Server thread/INFO]: YuZiOvO joined the game
+[13:29:57] [Server thread/INFO]: YuZiOvO lost connection: You logged in from another location
+[13:29:57] [Server thread/INFO]: YuZiOvO left the game
+[13:29:57] [Server thread/INFO]: YuZiOvO[/127.0.0.1:50381] logged in with entity id 45 at (-597.2371035919871, 67.0, 928.7474960099217)
+[13:29:57] [Server thread/INFO]: YuZiOvO joined the game
+[13:31:10] [Server thread/INFO]: YuZiOvO lost connection: Disconnected
+[13:31:10] [Server thread/INFO]: YuZiOvO left the game
+[13:31:12] [Server thread/INFO]: YuZiOvO[/127.0.0.1:50403] logged in with entity id 398 at (-597.2371035919871, 67.0, 928.7474960099217)
+[13:31:12] [Server thread/INFO]: YuZiOvO joined the game
+[13:31:25] [Server thread/INFO]: [YuZiOvO: The difficulty has been set to Peaceful]
+[13:31:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2038ms or 40 ticks behind
+[13:37:10] [Server thread/INFO]: [YuZiOvO: Set the time to 1]
+[13:37:15] [Server thread/INFO]: [YuZiOvO: Set the weather to clear]
+[13:42:27] [Server thread/INFO]: [YuZiOvO: Set the weather to clear]
+[13:47:55] [Server thread/INFO]: [YuZiOvO: Set the weather to clear]
+[13:48:03] [Server thread/INFO]: [YuZiOvO: Set the time to 1000]
+[13:50:30] [Server thread/INFO]: [YuZiOvO: Teleported YuZiOvO to -587.5, 67.0, 927.5]
+[13:51:46] [Server thread/INFO]: [YuZiOvO: Teleported YuZiOvO to -380.5, 63.0, 922.5]
+[13:51:46] [Server thread/WARN]: YuZiOvO moved too quickly! 216.95737771093684,0.0,-16.795203547694314
+[13:53:02] [Server thread/INFO]: [YuZiOvO: Set the weather to clear]
+[13:57:12] [Server thread/INFO]: [YuZiOvO: Set the time to 1000]
+[13:57:35] [Server thread/INFO]: [YuZiOvO: Set own game mode to Creative Mode]
+[14:03:25] [Server thread/INFO]: [YuZiOvO: Teleported YuZiOvO to -418.5, 65.0, 1045.5]
+[14:03:25] [Server thread/WARN]: YuZiOvO moved too quickly! 140.40603970443976,-43.07594503882959,249.0104851890518
+[14:03:25] [Server thread/WARN]: YuZiOvO moved too quickly! 140.40603970443976,-43.07594503882959,249.0104851890518
+[14:03:25] [Server thread/WARN]: YuZiOvO moved too quickly! 140.40603970443976,-43.07594503882959,249.0104851890518
+[14:05:30] [Server thread/INFO]: Villager axw['Villager'/3571, l='world', x=-396.63, y=65.00, z=1029.54] died, message: 'Villager was slain by YuZiOvO'
+[14:07:09] [Server thread/INFO]: [YuZiOvO: Set the time to 1000]
+[14:08:47] [Server thread/WARN]: YuZiOvO moved too quickly! -7.560886944501476,0.0,-6.761133173867165
+[14:09:42] [Server thread/INFO]: [YuZiOvO: Teleported YuZiOvO to -422.5, 64.0, 1040.5]
+[14:09:42] [Server thread/WARN]: YuZiOvO moved too quickly! 10.019920682976704,-6.0,153.3874595506062
+[14:09:42] [Server thread/WARN]: YuZiOvO moved too quickly! 10.019920682976704,-6.0,153.3874595506062
+[14:10:13] [Server thread/INFO]: [YuZiOvO: Teleported YuZiOvO to -378.5, 99.0, 1200.5]
+[14:10:13] [Server thread/WARN]: YuZiOvO moved too quickly! 41.31028980951481,34.0,156.8604078858648
+[14:10:56] [Server thread/INFO]: [YuZiOvO: Teleported YuZiOvO to -729.5, 62.0, 1021.5]
+[14:10:56] [Server thread/WARN]: YuZiOvO moved too quickly! -351.0,-37.0,-179.0
+[14:11:02] [Server thread/INFO]: [YuZiOvO: Teleported YuZiOvO to -833.5, 71.0, 1063.5]
+[14:11:02] [Server thread/WARN]: YuZiOvO moved too quickly! -104.0,9.0,42.0
+[14:11:02] [Server thread/WARN]: YuZiOvO moved too quickly! -104.0,9.0,42.0
+[14:11:02] [Server thread/WARN]: YuZiOvO moved too quickly! -104.0,9.0,42.0
+[14:13:20] [Server thread/INFO]: [YuZiOvO: Teleported YuZiOvO to -587.5, 67.0, 927.5]
+[14:13:20] [Server thread/WARN]: YuZiOvO moved too quickly! 253.09526919995972,-22.663899725155815,-147.49999981206702
+[14:13:44] [Server thread/INFO]: [YuZiOvO: Set own game mode to Survival Mode]
+[14:14:13] [Server thread/INFO]: [YuZiOvO: Set own game mode to Creative Mode]
+[14:14:25] [Server thread/INFO]: [YuZiOvO: Set own game mode to Survival Mode]
+[14:17:02] [Server thread/INFO]: [YuZiOvO: Set the time to 1000]
+[14:17:34] [Server thread/INFO]: YuZiOvO has made the advancement [What a Deal!]
+[14:39:33] [Server thread/INFO]: [YuZiOvO: Set own game mode to Spectator Mode]
+[14:40:36] [Server thread/INFO]: [YuZiOvO: Set own game mode to Survival Mode]
+[14:42:01] [Server thread/INFO]: [YuZiOvO: Set own game mode to Creative Mode]
+[14:44:23] [Server thread/INFO]: [YuZiOvO: Set own game mode to Survival Mode]
+[14:47:09] [Server thread/INFO]: [YuZiOvO: Set the time to 1000]
+[14:47:37] [Server thread/INFO]: [YuZiOvO: Teleported YuZiOvO to -587.5, 67.0, 927.5]
+[14:47:37] [Server thread/WARN]: YuZiOvO moved too quickly! -43.49178453693446,3.0,31.158258685804526
+[15:41:04] [Server thread/INFO]: huoshen80[/127.0.0.1:53249] logged in with entity id 9740 at (-526.0493588505725, 57.0, 922.0213750839396)
+[15:41:04] [Server thread/INFO]: huoshen80 joined the game
+[15:41:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2273ms or 45 ticks behind
+[15:41:21] [Server thread/INFO]: <huoshen80> 哦哈
+[15:41:35] [Server thread/INFO]: [huoshen80: Teleported huoshen80 to huoshen80]
+[15:41:42] [Server thread/INFO]: [huoshen80: Teleported huoshen80 to huoshen80]
+[15:41:46] [Server thread/INFO]: [huoshen80: Teleported huoshen80 to huoshen80]
+[15:41:50] [Server thread/INFO]: [huoshen80: Teleported huoshen80 to huoshen80]
+[15:41:54] [Server thread/INFO]: [huoshen80: Teleported huoshen80 to YuZiOvO]
+[15:43:48] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=-531, y=56, z=935} fk{x=-530, y=56, z=933}
+[15:43:48] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=-531, y=56, z=935} fk{x=-530, y=56, z=933}
+[15:46:34] [Server thread/INFO]: huoshen80 lost connection: Disconnected
+[15:46:34] [Server thread/INFO]: huoshen80 left the game
+[15:58:48] [Server thread/INFO]: YuZiOvO lost connection: Disconnected
+[15:58:48] [Server thread/INFO]: YuZiOvO left the game
+[16:03:51] [Server thread/INFO]: YuZiOvO[/127.0.0.1:54490] logged in with entity id 10243 at (-553.9561508919596, 64.0, 979.5605917256174)
+[16:03:52] [Server thread/INFO]: YuZiOvO joined the game
+[17:01:30] [Server thread/INFO]: [YuZiOvO: Set own game mode to Creative Mode]
+[17:01:40] [Server thread/INFO]: [YuZiOvO: Set own game mode to Survival Mode]
+[17:03:03] [Server thread/INFO]: [YuZiOvO: Set own game mode to Creative Mode]
+[17:03:10] [Server thread/INFO]: [YuZiOvO: Set own game mode to Survival Mode]
+[17:03:16] [Server thread/INFO]: [YuZiOvO: Set own game mode to Creative Mode]
+[17:03:19] [Server thread/INFO]: [YuZiOvO: Set own game mode to Survival Mode]
+[18:50:45] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/16546, l='world', x=-547.64, y=62.00, z=914.76]
+[19:37:47] [Server thread/INFO]: AWSL[/127.0.0.1:56847] logged in with entity id 18280 at (-1008.6417673151354, 64.0, 2570.699999988079)
+[19:37:47] [Server thread/INFO]: AWSL joined the game
+[19:37:58] [Server thread/INFO]: [AWSL: Set the weather to clear]
+[19:38:23] [Server thread/INFO]: [YuZiOvO: Set the time to 1000]
+[19:38:39] [Server thread/INFO]: [YuZiOvO: Teleported YuZiOvO to AWSL]
+[19:38:39] [Server thread/WARN]: Fetching packet for removed entity awb['Sand'/18637, l='world', x=-992.88, y=63.47, z=2589.78]
+[19:38:54] [Server thread/INFO]: 蛊[/127.0.0.1:56858] logged in with entity id 18678 at (-227.5, 66.0, 223.5)
+[19:38:54] [Server thread/INFO]: 蛊 joined the game
+[19:39:04] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=0, y=0, z=0} fk{x=-235, y=64, z=225}
+[19:39:05] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=0, y=0, z=0} fk{x=-235, y=65, z=225}
+[19:39:07] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=0, y=0, z=0} fk{x=-235, y=66, z=225}
+[19:39:10] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=0, y=0, z=0} fk{x=-234, y=63, z=225}
+[19:41:59] [Server thread/INFO]: [YuZiOvO: The difficulty has been set to Normal]
+[19:42:14] [Server thread/INFO]: huoshen80[/127.0.0.1:56931] logged in with entity id 19799 at (-536.59716796875, 57.0, 928.6817626953125)
+[19:42:14] [Server thread/INFO]: huoshen80 joined the game
+[19:42:27] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=0, y=0, z=0} fk{x=-233, y=66, z=225}
+[19:42:27] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=0, y=0, z=0} fk{x=-233, y=65, z=225}
+[19:42:28] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=0, y=0, z=0} fk{x=-234, y=63, z=225}
+[19:42:28] [Server thread/INFO]: [YuZiOvO: Made 蛊 a server operator]
+[19:42:29] [Server thread/WARN]: huoshen80 moved wrongly!
+[19:42:30] [Server thread/WARN]: huoshen80 moved wrongly!
+[19:42:43] [Server thread/INFO]: [蛊: Teleported 蛊 to -234.0, 65.4, 225.5]
+[19:42:52] [Server thread/INFO]: [蛊: Teleported 蛊 to AWSL]
+[19:43:23] [Server thread/INFO]: [huoshen80: Teleported huoshen80 to YuZiOvO]
+[19:43:41] [Server thread/INFO]: 蛊 was impaled by AWSL
+[19:43:55] [Server thread/INFO]: [蛊: Teleported 蛊 to huoshen80]
+[19:44:05] [Server thread/INFO]: [YuZiOvO: Teleported YuZiOvO to -587.5, 67.0, 927.5]
+[19:44:05] [Server thread/WARN]: YuZiOvO moved too quickly! 436.65920040993615,4.0,-1663.8703011962343
+[19:44:58] [Server thread/INFO]: [AWSL: Teleported AWSL to YuZiOvO]
+[19:45:08] [Server thread/INFO]: [huoshen80: Teleported huoshen80 to AWSL]
+[19:45:27] [Server thread/INFO]: [蛊: Teleported 蛊 to AWSL]
+[19:46:10] [Server thread/INFO]: 蛊 was shot by Skeleton
+[19:46:22] [Server thread/INFO]: [蛊: Teleported 蛊 to YuZiOvO]
+[19:46:40] [Server thread/INFO]: 蛊 has made the advancement [Suit Up]
+[19:47:49] [Server thread/INFO]: 蛊 has made the advancement [Monster Hunter]
+[19:48:28] [Server thread/INFO]: [AWSL: Teleported AWSL to YuZiOvO]
+[19:49:14] [Server thread/INFO]: [AWSL: Set the weather to clear]
+[19:49:20] [Server thread/INFO]: huoshen80 was slain by Spider
+[19:49:23] [Server thread/INFO]: [AWSL: Set the time to 1]
+[19:49:24] [Server thread/INFO]: 蛊 was shot by Skeleton
+[19:49:35] [Server thread/INFO]: [huoshen80: Teleported huoshen80 to AWSL]
+[19:49:51] [Server thread/INFO]: [蛊: Teleported 蛊 to YuZiOvO]
+[19:50:10] [Server thread/INFO]: <YuZiOvO> 你进个语音
+[19:50:33] [Server thread/INFO]: [AWSL: Teleported AWSL to YuZiOvO]
+[19:52:05] [Server thread/INFO]: [YuZiOvO: Made 蛊 no longer a server operator]
+[19:52:06] [Server thread/INFO]: 蛊 was slain by AWSL
+[19:52:37] [Server thread/WARN]: huoshen80 moved wrongly!
+[19:53:01] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=0, y=0, z=0} fk{x=-231, y=66, z=217}
+[19:53:07] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=0, y=0, z=0} fk{x=-231, y=64, z=216}
+[19:53:40] [Server thread/INFO]: <蛊> 我TMD不能用指令
+[19:54:20] [Server thread/INFO]: 蛊 lost connection: Disconnected
+[19:54:20] [Server thread/INFO]: 蛊 left the game
+[19:55:03] [Server thread/INFO]: [AWSL: Set the weather to clear]
+[19:56:16] [Server thread/INFO]: YUZIOVO[/127.0.0.1:57108] logged in with entity id 23760 at (-219.5, 65.0, 223.5)
+[19:56:16] [Server thread/INFO]: YUZIOVO joined the game
+[19:56:29] [Server thread/INFO]: [YuZiOvO: Made YUZIOVO a server operator]
+[19:56:40] [Server thread/INFO]: [YUZIOVO: Teleported YUZIOVO to YuZiOvO]
+[20:00:09] [Server thread/INFO]: YUZIOVO has made the advancement [Sweet Dreams]
+[20:00:10] [Server thread/INFO]: [AWSL: Set the weather to clear]
+[20:00:43] [Server thread/INFO]: YuZiOvO lost connection: Disconnected
+[20:00:43] [Server thread/INFO]: YuZiOvO left the game
+[20:00:43] [Server thread/INFO]: YUZIOVO has made the advancement [Acquire Hardware]
+[20:02:10] [Server thread/INFO]: YUZIOVO has made the advancement [Suit Up]
+[20:02:20] [Server thread/INFO]: huoshen80 lost connection: Disconnected
+[20:02:20] [Server thread/INFO]: huoshen80 left the game
+[20:03:18] [Server thread/INFO]: [AWSL: Teleported AWSL to YUZIOVO]
+[20:06:39] [Server thread/INFO]: YUZIOVO has made the advancement [Monster Hunter]
+[20:06:41] [Server thread/INFO]: YuZiOvO[/127.0.0.1:57755] logged in with entity id 25463 at (-568.6432395359012, 64.0, 979.6974609852364)
+[20:06:41] [Server thread/INFO]: YuZiOvO joined the game
+[20:06:42] [Server thread/INFO]: YuZiOvO lost connection: You logged in from another location
+[20:06:42] [Server thread/INFO]: YuZiOvO left the game
+[20:06:42] [Server thread/INFO]: YuZiOvO[/127.0.0.1:57753] logged in with entity id 25464 at (-568.6432395359012, 64.0, 979.6974609852364)
+[20:06:42] [Server thread/INFO]: YuZiOvO joined the game
+[20:06:54] [Server thread/INFO]: YUZIOVO has made the advancement [A Seedy Place]
+[20:07:15] [Server thread/INFO]: YuZiOvO lost connection: Disconnected
+[20:07:15] [Server thread/INFO]: YuZiOvO left the game
+[20:07:17] [Server thread/INFO]: YuZiOvO[/127.0.0.1:57774] logged in with entity id 25564 at (-568.6432395359012, 64.0, 979.6974609852364)
+[20:07:17] [Server thread/INFO]: YuZiOvO joined the game
+[20:10:15] [Server thread/INFO]: [AWSL: Teleported AWSL to YUZIOVO]
+[20:10:24] [Server thread/INFO]: [AWSL: Teleported AWSL to YUZIOVO]
+[20:10:31] [Server thread/INFO]: [AWSL: Teleported AWSL to YUZIOVO]
+[20:10:44] [Server thread/INFO]: [YuZiOvO: Teleported AWSL to YUZIOVO]
+[20:13:59] [Server thread/INFO]: YUZIOVO has made the advancement [The Parrots and the Bats]
+[20:15:07] [Server thread/INFO]: [AWSL: Set own game mode to Creative Mode]
+[20:15:27] [Server thread/INFO]: [AWSL: Set own game mode to Survival Mode]
+[20:16:48] [Server thread/INFO]: [YuZiOvO: Teleported YuZiOvO to AWSL]
+[20:16:48] [Server thread/WARN]: YuZiOvO moved too quickly! 40.09615767395121,1.0,-29.358925924855043
+[20:17:05] [Server thread/INFO]: [YUZIOVO: Teleported YUZIOVO to AWSL]
+[20:17:20] [Server thread/INFO]: AWSL was shot by YuZiOvO
+[20:18:09] [Server thread/INFO]: YUZIOVO was shot by Pillager
+[20:19:34] [Server thread/INFO]: [AWSL: Set the time to 1]
+[20:20:01] [Server thread/INFO]: [AWSL: Set own game mode to Creative Mode]
+[20:20:18] [Server thread/INFO]: [AWSL: Set own game mode to Survival Mode]
+[20:21:57] [Server thread/INFO]: YUZIOVO was shot by Pillager
+[20:24:27] [Server thread/INFO]: YUZIOVO has made the advancement [Ol' Betsy]
+[20:24:27] [Server thread/INFO]: YUZIOVO has made the advancement [Take Aim]
+[20:27:59] [Server thread/INFO]: [YUZIOVO: Teleported YUZIOVO to AWSL]
+[20:30:07] [Server thread/INFO]: [AWSL: Set the time to 1]
+[20:30:40] [Server thread/INFO]: YUZIOVO has made the advancement [Voluntary Exile]
+[20:31:10] [Server thread/INFO]: YUZIOVO has made the advancement [Who's the Pillager Now?]
+[20:32:29] [Server thread/INFO]: YUZIOVO was shot by Pillager
+[20:32:39] [Server thread/INFO]: [YUZIOVO: Teleported YUZIOVO to YuZiOvO]
+[20:33:08] [Server thread/INFO]: [AWSL: Set the weather to rain & thunder]
+[20:33:15] [Server thread/INFO]: YUZIOVO fell from a high place
+[20:33:20] [Server thread/INFO]: Villager axw['Librarian'/21081, l='world', x=-416.34, y=72.00, z=863.43] died, message: 'Librarian was slain by Vindicator'
+[20:33:22] [Server thread/INFO]: [YUZIOVO: Teleported YUZIOVO to YuZiOvO]
+[20:33:27] [Server thread/INFO]: YUZIOVO was slain by Vindicator
+[20:33:28] [Server thread/INFO]: AWSL was slain by Vex
+[20:33:29] [Server thread/INFO]: Villager axw['Villager'/21101, l='world', x=-416.75, y=72.00, z=863.69] died, message: 'Villager was slain by Vindicator'
+[20:33:30] [Server thread/INFO]: Villager axw['Farmer'/22353, l='world', x=-415.92, y=72.00, z=863.37] died, message: 'Farmer was slain by Vindicator'
+[20:33:32] [Server thread/INFO]: Villager axw['Toolsmith'/21077, l='world', x=-415.64, y=70.94, z=863.48] died, message: 'Toolsmith was slain by Vindicator'
+[20:33:32] [Server thread/INFO]: [AWSL: Teleported AWSL to YuZiOvO]
+[20:33:33] [Server thread/INFO]: [YUZIOVO: Teleported YUZIOVO to YuZiOvO]
+[20:33:35] [Server thread/INFO]: Villager axw['Villager'/22351, l='world', x=-408.08, y=73.00, z=855.51] died, message: 'Villager was slain by Vindicator'
+[20:33:39] [Server thread/INFO]: Villager axw['Farmer'/21084, l='world', x=-405.41, y=72.00, z=864.58] died, message: 'Farmer was slain by Vindicator'
+[20:33:58] [Server thread/INFO]: YUZIOVO was shot by YuZiOvO
+[20:34:09] [Server thread/INFO]: [YUZIOVO: Teleported YUZIOVO to YuZiOvO]
+[20:34:43] [Server thread/INFO]: YUZIOVO was shot by Pillager
+[20:34:53] [Server thread/INFO]: [YUZIOVO: Teleported YUZIOVO to YuZiOvO]
+[20:35:44] [Server thread/INFO]: YUZIOVO has completed the challenge [Hero of the Village]
+[20:36:12] [Server thread/INFO]: [AWSL: Set the weather to clear]
+[20:36:51] [Server thread/INFO]: AWSL has made the advancement [What a Deal!]
+[20:37:43] [Server thread/INFO]: [YuZiOvO: Teleported YuZiOvO to -587.5, 67.0, 927.5]
+[20:37:43] [Server thread/WARN]: YuZiOvO moved too quickly! -147.98524534613534,-2.0,37.13721710630671
+[20:38:00] [Server thread/INFO]: [YuZiOvO: Teleported YuZiOvO to -432.5, 71.0, 885.5]
+[20:39:00] [Server thread/INFO]: huoshen80[/127.0.0.1:59360] logged in with entity id 32381 at (-566.972900390625, 64.0, 977.2825317382812)
+[20:39:00] [Server thread/INFO]: huoshen80 joined the game
+[20:39:24] [Server thread/INFO]: huoshen80 lost connection: Disconnected
+[20:39:24] [Server thread/INFO]: huoshen80 left the game
+[20:39:30] [Server thread/INFO]: [YuZiOvO: Teleported YuZiOvO to -587.5, 67.0, 927.5]
+[20:39:30] [Server thread/WARN]: YuZiOvO moved too quickly! -165.24255811079883,-4.0,54.562592043027735
+[20:39:46] [Server thread/INFO]: [YuZiOvO: Teleported YuZiOvO to -432.5, 71.0, 885.5]
+[20:39:46] [Server thread/WARN]: YuZiOvO moved too quickly! 140.7785659119561,7.0,-57.28147533256151
+[20:40:55] [Server thread/INFO]: [YuZiOvO: Teleported YuZiOvO to -587.5, 67.0, 927.5]
+[20:40:55] [Server thread/WARN]: YuZiOvO moved too quickly! -174.22250926220687,-3.0,53.42775119033422
+[20:41:29] [Server thread/INFO]: [YuZiOvO: Set the time to 1000]
+[20:42:18] [Server thread/INFO]: [AWSL: Set the weather to clear]
+[20:42:37] [Server thread/INFO]: huoshen80[/127.0.0.1:59412] logged in with entity id 33060 at (-566.972900390625, 64.0, 977.2825317382812)
+[20:42:37] [Server thread/INFO]: huoshen80 joined the game
+[20:43:15] [Server thread/INFO]: [YuZiOvO: Teleported YuZiOvO to -420.5, 65.0, 1043.5]
+[20:43:15] [Server thread/WARN]: YuZiOvO moved too quickly! 96.03522683810797,1.0,113.38116851427696
+[20:43:20] [Server thread/INFO]: <huoshen80> 我有皮肤；额
+[20:43:26] [Server thread/INFO]: [AWSL: Teleported AWSL to YuZiOvO]
+[20:44:16] [Server thread/INFO]: [huoshen80: Teleported huoshen80 to AWSL]
+[20:44:30] [Server thread/INFO]: [YUZIOVO: Teleported YUZIOVO to YuZiOvO]
+[20:44:32] [Server thread/INFO]: <YuZiOvO> voice chat
+[20:44:33] [Server thread/INFO]: <huoshen80> 看的到么
+[20:44:37] [Server thread/INFO]: <YuZiOvO> 看不到
+[20:44:40] [Server thread/INFO]: <huoshen80> 。。。
+[20:44:50] [Server thread/INFO]: <YuZiOvO> 我只看得到小麦
+[20:44:53] [Server thread/INFO]: <huoshen80> 你没装那个mod？
+[20:44:55] [Server thread/INFO]: <YuZiOvO> 小赖
+[20:45:24] [Server thread/INFO]: <YUZIOVO> 泥鳅来语音
+[20:45:51] [Server thread/INFO]: [AWSL: Teleported AWSL to YuZiOvO]
+[20:45:52] [Server thread/INFO]: <huoshen80> 我又tmd
+[20:46:02] [Server thread/INFO]: <huoshen80> 要和我妈出去
+[20:46:05] [Server thread/INFO]: <huoshen80> cao
+[20:46:08] [Server thread/INFO]: <YuZiOvO> bye
+[20:46:16] [Server thread/INFO]: <YuZiOvO> 我们等你
+[20:47:01] [Server thread/INFO]: [YuZiOvO: Teleported YuZiOvO to YuZiOvO]
+[20:47:09] [Server thread/INFO]: [AWSL: Teleported AWSL to YuZiOvO]
+[20:47:17] [Server thread/INFO]: <huoshen80> 有人能看到我皮肤么
+[20:47:23] [Server thread/INFO]: [AWSL: Teleported AWSL to huoshen80]
+[20:47:48] [Server thread/INFO]: [AWSL: Set the time to 1]
+[20:48:00] [Server thread/INFO]: [YuZiOvO: Teleported YuZiOvO to -587.5, 67.0, 927.5]
+[20:48:00] [Server thread/WARN]: YuZiOvO moved too quickly! -172.49024709791803,-1.0,-99.3201115455247
+[20:48:21] [Server thread/INFO]: YUZIOVO went up in flames
+[20:48:28] [Server thread/INFO]: Villager axw['Farmer'/21112, l='world', x=-397.06, y=69.00, z=1044.82] died, message: 'Farmer was slain by Zombie'
+[20:48:33] [Server thread/INFO]: [huoshen80: Teleported huoshen80 to AWSL]
+[20:48:34] [Server thread/INFO]: [AWSL: Set the weather to clear]
+[20:48:50] [Server thread/INFO]: [huoshen80: Teleported huoshen80 to -598.5, 67.0, 929.5]
+[20:49:32] [Server thread/INFO]: YUZIOVO lost connection: Disconnected
+[20:49:32] [Server thread/INFO]: YUZIOVO left the game
+[20:50:30] [Server thread/INFO]: weirong[/127.0.0.1:59559] logged in with entity id 34635 at (-225.5, 66.0, 226.5)
+[20:50:30] [Server thread/INFO]: weirong joined the game
+[20:50:42] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=0, y=0, z=0} fk{x=-228, y=68, z=236}
+[20:50:42] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=0, y=0, z=0} fk{x=-228, y=68, z=235}
+[20:50:51] [Server thread/INFO]: [YuZiOvO: Made weirong a server operator]
+[20:50:59] [Server thread/INFO]: [weirong: Teleported weirong to huoshen80]
+[20:51:20] [Server thread/INFO]: <huoshen80> 谁呀
+[20:51:31] [Server thread/INFO]: <huoshen80> emmm
+[20:51:40] [Server thread/INFO]: <huoshen80> weirong。。。
+[20:52:11] [Server thread/INFO]: [YuZiOvO: Gave 1 [Oak Fence Gate] to YuZiOvO]
+[20:52:34] [Server thread/INFO]: weirong has made the advancement [Diamonds!]
+[20:53:10] [Server thread/INFO]: weirong has made the advancement [Cover Me With Diamonds]
+[20:53:11] [Server thread/INFO]: huoshen80 lost connection: Disconnected
+[20:53:11] [Server thread/INFO]: huoshen80 left the game
+[20:53:39] [Server thread/INFO]: [weirong: Teleported weirong to AWSL]
+[20:53:42] [Server thread/INFO]: [AWSL: Set the weather to clear]
+[20:53:43] [Server thread/INFO]: [YuZiOvO: Teleported YuZiOvO to AWSL]
+[20:53:43] [Server thread/WARN]: YuZiOvO moved too quickly! -418.5630583797347,-3.0,762.3118591586292
+[20:56:39] [Server thread/INFO]: [YuZiOvO: Teleported YuZiOvO to -587.5, 67.0, 927.5]
+[20:56:39] [Server thread/WARN]: YuZiOvO moved too quickly! 429.19375718415404,-7.0,-861.2093792387791
+[20:56:39] [Server thread/WARN]: YuZiOvO moved too quickly! 429.19375718415404,-7.0,-861.2093792387791
+[20:57:30] [Server thread/INFO]: [weirong: Teleported weirong to YuZiOvO]
+[20:58:32] [Server thread/INFO]: weirong has made the advancement [Isn't It Iron Pick]
+[20:58:42] [Server thread/INFO]: [AWSL: Set the time to 1]
+[20:58:50] [Server thread/INFO]: [AWSL: Set the weather to clear]
+[20:59:23] [Server thread/INFO]: [YuZiOvO: Teleported YuZiOvO to -587.5, 67.0, 927.5]
+[20:59:23] [Server thread/WARN]: YuZiOvO moved too quickly! -55.79102246213449,-19.0,-4.154275070635094
+[20:59:56] [Server thread/INFO]: weirong has made the advancement [Stone Age]
+[21:00:51] [Server thread/INFO]: YuZiOvO has made the advancement [Local Brewery]
+[21:00:58] [Server thread/INFO]: [YuZiOvO: Teleported YuZiOvO to AWSL]
+[21:00:58] [Server thread/WARN]: YuZiOvO moved too quickly! -135.97879854675853,-34.0,993.1579359468618
+[21:01:44] [Server thread/INFO]: Villager axw['Villager'/37513, l='world', x=-474.43, y=69.00, z=1031.30] died, message: 'Villager hit the ground too hard'
+[21:01:48] [Server thread/INFO]: [YuZiOvO: Teleported YuZiOvO to -587.5, 67.0, 927.5]
+[21:01:48] [Server thread/WARN]: YuZiOvO moved too quickly! 146.22287042197195,9.933482149603051,-989.811919150929
+[21:01:48] [Server thread/WARN]: YuZiOvO moved too quickly! 146.22287042197195,9.933482149603051,-989.811919150929
+[21:02:08] [Server thread/INFO]: weirong has made the advancement [Getting an Upgrade]
+[21:03:55] [Server thread/INFO]: [AWSL: Set the weather to clear]
+[21:05:34] [Server thread/INFO]: [AWSL: The difficulty has been set to Hard]
+[21:06:43] [Server thread/INFO]: weirong burned to death
+[21:07:22] [Server thread/INFO]: weirong has made the advancement [Monster Hunter]
+[21:08:28] [Server thread/WARN]: AWSL moved wrongly!
+[21:08:51] [Server thread/WARN]: YuZiOvO moved wrongly!
+[21:09:23] [Server thread/INFO]: [AWSL: Set the weather to clear]
+[21:09:30] [Server thread/INFO]: [YuZiOvO: Teleported YuZiOvO to -587.5, 67.0, 927.5]
+[21:09:30] [Server thread/WARN]: YuZiOvO moved too quickly! -54.341133665285156,-15.0,5.800000011920929
+[21:09:31] [Server thread/INFO]: [AWSL: Set the time to 1]
+[21:09:38] [Server thread/INFO]: weirong hit the ground too hard whilst trying to escape Skeleton
+[21:10:03] [Server thread/INFO]: [YuZiOvO: Teleported YuZiOvO to -532.5, 57.0, 924.5]
+[21:10:03] [Server thread/WARN]: YuZiOvO moved too quickly! 58.21799819402031,-10.0,-3.34535285256095
+[21:10:03] [Server thread/WARN]: YuZiOvO moved too quickly! 58.21799819402031,-10.0,-3.34535285256095
+[21:11:20] [Server thread/WARN]: AWSL moved wrongly!
+[21:12:14] [Server thread/INFO]: weirong has made the advancement [Acquire Hardware]
+[21:12:21] [Server thread/INFO]: [AWSL: Teleported AWSL to -431.5, 75.0, 1872.5]
+[21:13:41] [Server thread/INFO]: [AWSL: Teleported AWSL to 592.5, 75.0, 3088.5]
+[21:14:51] [Server thread/INFO]: [AWSL: Set the weather to clear]
+[21:14:53] [Server thread/INFO]: [YuZiOvO: Teleported YuZiOvO to -587.5, 67.0, 927.5]
+[21:14:53] [Server thread/WARN]: YuZiOvO moved too quickly! -48.80000001192093,-9.0,6.867779156756683
+[21:14:57] [Server thread/INFO]: [AWSL: The difficulty has been set to Peaceful]
+[21:16:18] [Server thread/INFO]: [AWSL: The difficulty has been set to Hard]
+[21:17:06] [Server thread/INFO]: [YuZiOvO: Set own game mode to Creative Mode]
+[21:17:26] [Server thread/INFO]: [YuZiOvO: Set own game mode to Survival Mode]
+[21:18:51] [Server thread/WARN]: AWSL moved too quickly! -2.7277301296381324,0.046488744323326614,-9.662917587932043
+[21:22:38] [Server thread/INFO]: [YuZiOvO: Set the weather to clear]
+[21:23:51] [Server thread/INFO]: [YuZiOvO: Teleported YuZiOvO to -587.5, 67.0, 927.5]
+[21:24:14] [Server thread/INFO]: [AWSL: Teleported AWSL to YuZiOvO]
+[21:25:29] [Server thread/INFO]: [YuZiOvO: Set own game mode to Creative Mode]
+[21:25:42] [Server thread/INFO]: [YuZiOvO: Set own game mode to Survival Mode]
+[21:26:17] [Server thread/INFO]: [YuZiOvO: Set the time to 1]
+[21:27:09] [Server thread/INFO]: weirong burned to death
+[21:27:53] [Server thread/INFO]: [AWSL: Set the weather to clear]
+[21:28:51] [Server thread/WARN]: Fetching packet for removed entity awb['Oak Fence'/57742, l='world', x=-526.04, y=76.00, z=920.06]
+[21:30:09] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/58327, l='world', x=-544.66, y=62.00, z=913.02]
+[21:30:20] [Server thread/INFO]: [YuZiOvO: Gave 64 [Dirt] to AWSL]
+[21:30:24] [Server thread/INFO]: [AWSL: Set own game mode to Creative Mode]
+[21:30:27] [Server thread/INFO]: AWSL lost connection: Disconnected
+[21:30:28] [Server thread/INFO]: AWSL left the game
+[21:30:28] [Server thread/INFO]: weirong lost connection: Disconnected
+[21:30:28] [Server thread/INFO]: weirong left the game
+[21:30:43] [Server thread/INFO]: YuZiOvO lost connection: Disconnected
+[21:30:43] [Server thread/INFO]: YuZiOvO left the game
+[21:30:46] [Server thread/INFO]: YuZiOvO[/127.0.0.1:60024] logged in with entity id 58507 at (-534.8657131963449, 76.0, 933.0262181768848)
+[21:30:46] [Server thread/INFO]: YuZiOvO joined the game
+[21:30:53] [Server thread/INFO]: AWSL[/127.0.0.1:60032] logged in with entity id 58885 at (-65.49428752426479, 55.8831356177324, 94.90478408739953)
+[21:30:53] [Server thread/INFO]: AWSL joined the game
+[21:30:59] [Server thread/INFO]: weirong[/127.0.0.1:60033] logged in with entity id 58986 at (-170.54791704490103, 22.0, 183.60577906105863)
+[21:30:59] [Server thread/INFO]: weirong joined the game
+[21:32:49] [Server thread/WARN]: AWSL moved too quickly! 5.7850065333056335,5.87733097548287,-6.398450128813398
+[21:33:13] [Server thread/INFO]: [AWSL: Set own game mode to Survival Mode]
+[21:33:16] [Server thread/INFO]: AWSL fell out of the world
+[21:33:16] [Server thread/INFO]: [AWSL: Killed AWSL]
+[21:33:23] [Server thread/INFO]: [YuZiOvO: Teleported YuZiOvO to -587.5, 67.0, 927.5]
+[21:33:30] [Server thread/INFO]: [AWSL: Set the weather to clear]
+[21:33:35] [Server thread/INFO]: [AWSL: Teleported AWSL to YuZiOvO]
+[21:34:27] [Server thread/INFO]: [YuZiOvO: Teleported YuZiOvO to -532.5, 57.0, 924.5]
+[21:34:27] [Server thread/WARN]: YuZiOvO moved too quickly! 43.5554324097609,-10.0,-18.57499998807907
+[21:34:27] [Server thread/WARN]: YuZiOvO moved too quickly! 43.5554324097609,-10.0,-18.57499998807907
+[21:34:43] [Server thread/INFO]: [AWSL: Teleported AWSL to YuZiOvO]
+[21:35:13] [Server thread/INFO]: [weirong: Set own game mode to Creative Mode]
+[21:35:38] [Server thread/INFO]: [YuZiOvO: Killed 6 entities]
+[21:35:58] [Server thread/INFO]: [AWSL: Teleported AWSL to weirong]
+[21:36:09] [Server thread/INFO]: [weirong: Set own game mode to Survival Mode]
+[21:36:36] [Server thread/INFO]: [YuZiOvO: Set the time to 1]
+[21:37:02] [Server thread/INFO]: <YuZiOvO> [name:僵尸刷怪塔, x:-656, y:8, z:880, dim:0, icon:skull]
+[21:37:20] [Server thread/INFO]: [AWSL: Teleported AWSL to -655.5, 8.0, 880.5]
+[21:37:22] [Server thread/INFO]: [weirong: Gave 64 [Acacia Wood] to weirong]
+[21:38:46] [Server thread/INFO]: [YuZiOvO: Set the weather to rain]
+[21:38:54] [Server thread/INFO]: [YuZiOvO: Set the weather to clear]
+[21:39:02] [Server thread/INFO]: [AWSL: Teleported AWSL to YuZiOvO]
+[21:39:58] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/62483, l='world', x=-548.17, y=62.00, z=915.82]
+[21:39:58] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/62483, l='world', x=-548.17, y=62.00, z=915.82]
+[21:41:52] [Server thread/INFO]: [YuZiOvO: Teleported YuZiOvO to -587.5, 67.0, 927.5]
+[21:41:52] [Server thread/WARN]: YuZiOvO moved too quickly! -49.80017824353138,3.0,-6.65993913148543
+[21:43:07] [Server thread/INFO]: [YuZiOvO: Teleported YuZiOvO to -532.5, 57.0, 924.5]
+[21:43:07] [Server thread/WARN]: YuZiOvO moved too quickly! 55.45533645544538,-10.0,-3.16546802866651
+[21:43:07] [Server thread/WARN]: YuZiOvO moved too quickly! 55.45533645544538,-10.0,-3.16546802866651
+[21:43:44] [Server thread/INFO]: [YuZiOvO: Teleported YuZiOvO to -587.5, 67.0, 927.5]
+[21:43:44] [Server thread/WARN]: YuZiOvO moved too quickly! -52.47979776626278,-3.0,-6.315742196535211
+[21:44:02] [Server thread/INFO]: [AWSL: Set the weather to clear]
+[21:44:32] [Server thread/INFO]: [AWSL: Teleported AWSL to weirong]
+[21:46:51] [Server thread/INFO]: [YuZiOvO: Teleported YuZiOvO to -587.5, 67.0, 927.5]
+[21:46:51] [Server thread/WARN]: YuZiOvO moved too quickly! -63.13980401913898,-3.0,-6.0830267823680515
+[21:48:03] [Server thread/INFO]: [YuZiOvO: Teleported YuZiOvO to AWSL]
+[21:49:27] [Server thread/INFO]: [AWSL: Set own game mode to Spectator Mode]
+[21:50:01] [Server thread/INFO]: [YuZiOvO: Teleported YuZiOvO to AWSL]
+[21:50:01] [Server thread/WARN]: YuZiOvO moved too quickly! -115.7593287575791,-1.9511175355000354,-59.86127470113814
+[21:50:01] [Server thread/WARN]: YuZiOvO moved too quickly! -115.7593287575791,-1.9511175355000354,-59.86127470113814
+[21:50:01] [Server thread/WARN]: YuZiOvO moved too quickly! -115.7593287575791,-1.9511175355000354,-59.86127470113814
+[21:50:07] [Server thread/INFO]: [AWSL: Set own game mode to Survival Mode]
+[21:51:06] [Server thread/INFO]: [AWSL: Teleported AWSL to YuZiOvO]
+[21:52:13] [Server thread/INFO]: [YuZiOvO: Teleported YuZiOvO to AWSL]
+[21:52:13] [Server thread/WARN]: YuZiOvO moved too quickly! 7.484080219212871,-4.2468000194787985,-27.662918637344248
+[21:52:57] [Server thread/INFO]: [AWSL: Set own game mode to Spectator Mode]
+[21:53:30] [Server thread/INFO]: [weirong: Gave 64 [TNT] to weirong]
+[21:53:58] [Server thread/INFO]: [YuZiOvO: Teleported YuZiOvO to weirong]
+[21:53:58] [Server thread/WARN]: YuZiOvO moved too quickly! 62.87131936409173,1.0,6.619104151232079
+[21:54:10] [Server thread/INFO]: [AWSL: Teleported AWSL to weirong]
+[21:54:38] [Server thread/INFO]: [weirong: Gave 32 [Flint and Steel] to weirong]
+[21:54:58] [Server thread/INFO]: [AWSL: Set own game mode to Survival Mode]
+[21:55:42] [Server thread/INFO]: [AWSL: Teleported AWSL to YuZiOvO]
+[21:58:01] [Server thread/WARN]: Fetching packet for removed entity awb['Granite'/68036, l='world', x=-169.68, y=6.55, z=126.34]
+[21:58:01] [Server thread/WARN]: Fetching packet for removed entity awb['Diorite'/68037, l='world', x=-168.70, y=7.32, z=124.40]
+[21:58:01] [Server thread/WARN]: Fetching packet for removed entity awb['Dirt'/68038, l='world', x=-168.31, y=9.61, z=120.48]
+[21:58:01] [Server thread/WARN]: Fetching packet for removed entity awb['Cobblestone'/68039, l='world', x=-172.32, y=7.32, z=125.65]
+[21:58:01] [Server thread/WARN]: Fetching packet for removed entity awb['Cobblestone'/68041, l='world', x=-170.25, y=7.72, z=123.42]
+[21:58:01] [Server thread/WARN]: Fetching packet for removed entity awb['Diorite'/68051, l='world', x=-165.46, y=8.43, z=126.44]
+[21:58:01] [Server thread/WARN]: Fetching packet for removed entity awb['Granite'/68052, l='world', x=-169.38, y=7.52, z=127.58]
+[21:59:19] [Server thread/INFO]: weirong burned to death
+[22:01:00] [Server thread/INFO]: [YuZiOvO: Gave 1 [Acacia Wood] to YuZiOvO]
+[22:01:21] [Server thread/WARN]: Fetching packet for removed entity awb['Cobblestone'/69492, l='world', x=-226.29, y=49.44, z=234.74]
+[22:01:21] [Server thread/WARN]: Fetching packet for removed entity awb['Cobblestone'/69492, l='world', x=-226.29, y=49.44, z=234.74]
+[22:01:21] [Server thread/WARN]: Fetching packet for removed entity awb['Diorite'/69493, l='world', x=-228.74, y=49.68, z=237.45]
+[22:01:21] [Server thread/WARN]: Fetching packet for removed entity awb['Diorite'/69493, l='world', x=-228.74, y=49.68, z=237.45]
+[22:01:21] [Server thread/WARN]: Fetching packet for removed entity awb['Iron Ore'/69494, l='world', x=-226.40, y=49.70, z=236.70]
+[22:01:21] [Server thread/WARN]: Fetching packet for removed entity awb['Iron Ore'/69494, l='world', x=-226.40, y=49.70, z=236.70]
+[22:01:21] [Server thread/WARN]: Fetching packet for removed entity awb['Coal'/69495, l='world', x=-227.34, y=48.49, z=234.52]
+[22:01:21] [Server thread/WARN]: Fetching packet for removed entity awb['Coal'/69495, l='world', x=-227.34, y=48.49, z=234.52]
+[22:01:21] [Server thread/WARN]: Fetching packet for removed entity awb['Cobblestone'/69496, l='world', x=-226.27, y=51.46, z=232.48]
+[22:01:21] [Server thread/WARN]: Fetching packet for removed entity awb['Cobblestone'/69496, l='world', x=-226.27, y=51.46, z=232.48]
+[22:01:21] [Server thread/WARN]: Fetching packet for removed entity awb['Cobblestone'/69507, l='world', x=-232.42, y=49.45, z=229.75]
+[22:01:21] [Server thread/WARN]: Fetching packet for removed entity awb['Cobblestone'/69507, l='world', x=-232.42, y=49.45, z=229.75]
+[22:01:21] [Server thread/WARN]: Fetching packet for removed entity awb['Diorite'/69508, l='world', x=-234.34, y=50.54, z=233.45]
+[22:01:21] [Server thread/WARN]: Fetching packet for removed entity awb['Diorite'/69508, l='world', x=-234.34, y=50.54, z=233.45]
+[22:01:21] [Server thread/WARN]: Fetching packet for removed entity awb['Iron Ore'/69510, l='world', x=-235.63, y=50.32, z=231.74]
+[22:01:21] [Server thread/WARN]: Fetching packet for removed entity awb['Iron Ore'/69510, l='world', x=-235.63, y=50.32, z=231.74]
+[22:03:34] [Server thread/INFO]: [AWSL: Teleported AWSL to weirong]
+[22:04:00] [Server thread/INFO]: [AWSL: Teleported AWSL to YuZiOvO]
+[22:04:10] [Server thread/INFO]: AWSL fell out of the world
+[22:04:10] [Server thread/INFO]: [AWSL: Killed AWSL]
+[22:04:17] [Server thread/INFO]: [AWSL: Set the weather to clear]
+[22:04:26] [Server thread/INFO]: [YuZiOvO: Teleported YuZiOvO to -587.5, 67.0, 927.5]
+[22:04:26] [Server thread/WARN]: YuZiOvO moved too quickly! -272.5112057027827,59.0,776.1999999880791
+[22:05:03] [Server thread/INFO]: [weirong: Gave 64 [Raw Beef] to weirong]
+[22:05:32] [Server thread/INFO]: [weirong: Gave 64 [TNT] to weirong]
+[22:06:19] [Server thread/WARN]: Fetching packet for removed entity awb['Cobblestone'/71568, l='world', x=-246.38, y=21.63, z=231.49]
+[22:06:19] [Server thread/WARN]: Fetching packet for removed entity awb['Lapis Lazuli'/71569, l='world', x=-241.45, y=21.38, z=235.48]
+[22:06:19] [Server thread/WARN]: Fetching packet for removed entity awb['Granite'/71570, l='world', x=-245.70, y=20.57, z=231.32]
+[22:06:19] [Server thread/WARN]: Fetching packet for removed entity awb['Cobblestone'/71571, l='world', x=-242.51, y=20.52, z=232.26]
+[22:06:19] [Server thread/WARN]: Fetching packet for removed entity awb['Cobblestone'/71572, l='world', x=-240.48, y=22.51, z=233.32]
+[22:06:41] [Server thread/WARN]: Fetching packet for removed entity awb['Cobblestone'/71702, l='world', x=-247.49, y=20.57, z=233.69]
+[22:06:41] [Server thread/WARN]: Fetching packet for removed entity awb['Granite'/71703, l='world', x=-245.64, y=20.28, z=234.42]
+[22:06:41] [Server thread/WARN]: Fetching packet for removed entity awb['Cobblestone'/71705, l='world', x=-249.27, y=18.29, z=230.65]
+[22:06:41] [Server thread/WARN]: Fetching packet for removed entity awb['Cobblestone'/71706, l='world', x=-250.61, y=19.36, z=229.50]
+[22:06:41] [Server thread/WARN]: Fetching packet for removed entity awb['Cobblestone'/71717, l='world', x=-242.54, y=20.65, z=227.46]
+[22:06:41] [Server thread/WARN]: Fetching packet for removed entity awb['Cobblestone'/71718, l='world', x=-240.67, y=23.52, z=229.33]
+[22:06:41] [Server thread/WARN]: Fetching packet for removed entity awb['Cobblestone'/71719, l='world', x=-248.30, y=23.65, z=227.48]
+[22:06:49] [Server thread/INFO]: [AWSL: Teleported AWSL to YuZiOvO]
+[22:08:39] [Server thread/INFO]: [AWSL: Set the time to 1]
+[22:09:19] [Server thread/INFO]: YuZiOvO lost connection: Disconnected
+[22:09:19] [Server thread/INFO]: YuZiOvO left the game
+[22:09:35] [Server thread/INFO]: AWSL lost connection: Disconnected
+[22:09:35] [Server thread/INFO]: AWSL left the game
+[22:09:55] [Server thread/WARN]: Fetching packet for removed entity awb['Cobblestone'/72561, l='world', x=-200.33, y=12.43, z=251.58]
+[22:09:55] [Server thread/WARN]: Fetching packet for removed entity awb['Coal'/72562, l='world', x=-197.46, y=10.28, z=253.33]
+[22:09:55] [Server thread/WARN]: Fetching packet for removed entity awb['Andesite'/72563, l='world', x=-201.33, y=12.69, z=255.57]
+[22:09:55] [Server thread/WARN]: Fetching packet for removed entity awb['Cobblestone'/72564, l='world', x=-198.65, y=12.26, z=251.69]
+[22:09:55] [Server thread/WARN]: Fetching packet for removed entity awb['Cobblestone'/72565, l='world', x=-197.69, y=12.47, z=251.43]
+[22:09:55] [Server thread/WARN]: Fetching packet for removed entity awb['Dirt'/72566, l='world', x=-202.57, y=16.33, z=253.60]
+[22:09:56] [Server thread/WARN]: Fetching packet for removed entity awb['Cobblestone'/72622, l='world', x=-194.43, y=8.71, z=263.75]
+[22:10:07] [Server thread/INFO]: weirong lost connection: Disconnected
+[22:10:07] [Server thread/INFO]: weirong left the game
+[22:27:22] [Server thread/INFO]: huoshen80[/127.0.0.1:60734] logged in with entity id 72658 at (-594.0585185260024, 67.0, 927.5043657795212)
+[22:27:22] [Server thread/INFO]: huoshen80 joined the game
+[22:31:36] [Server thread/INFO]: huoshen80 lost connection: Disconnected
+[22:31:36] [Server thread/INFO]: huoshen80 left the game
+[22:31:57] [Server thread/INFO]: huoshen80[/127.0.0.1:60779] logged in with entity id 73413 at (-594.0585185260024, 67.0, 927.5043657795212)
+[22:31:57] [Server thread/INFO]: huoshen80 joined the game
+[22:46:35] [Server thread/INFO]: [huoshen80: Gave 1 [Command Block] to huoshen80]
+[22:46:39] [Server thread/INFO]: [huoshen80: Set own game mode to Creative Mode]
+[22:48:11] [Server thread/INFO]: [huoshen80: Set own game mode to Survival Mode]
+[22:51:41] [Server thread/INFO]: huoshen80 lost connection: Disconnected
+[22:51:41] [Server thread/INFO]: huoshen80 left the game
+[23:06:32] [Server thread/INFO]: Stopping server
+[23:06:32] [Server thread/INFO]: Saving players
+[23:06:32] [Server thread/INFO]: Saving worlds
+[23:06:32] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_nether
+[23:06:32] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[23:06:32] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_end
+[23:06:32] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[23:06:32] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
+[23:06:32] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[23:06:32] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[23:06:32] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[23:06:32] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved

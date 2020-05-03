@@ -1,0 +1,33 @@
+2020-05-02 15:25:16.183 [main] I - [37;1m******************************************[0m
+2020-05-02 15:25:16.190 [main] I - [37;1m[0m
+2020-05-02 15:25:16.191 [main] I - [37;1mLoading Geyser version 1.0-SNAPSHOT[0m
+2020-05-02 15:25:16.192 [main] I - [37;1m[0m
+2020-05-02 15:25:16.193 [main] I - [37;1m******************************************[0m
+2020-05-02 15:25:20.091 [main] I - [37;1mStarted Geyser on 0.0.0.0:19190[0m
+2020-05-02 15:25:20.101 [main] I - [37;1mDone (3.921s)! Run /geyser help for help![0m
+2020-05-02 15:25:36.244 [Network Listener - #1] I - [37;1m/192.168.31.91:46028 tried to connect![0m
+2020-05-02 15:25:36.594 [Network Listener - #1] I - [37;1mBedrock user with ip: /192.168.31.91 has disconnected for reason CLOSED_BY_REMOTE_PEER[0m
+2020-05-02 15:29:28.378 [Network Listener - #1] I - [37;1m/127.0.0.1:57558 tried to connect![0m
+2020-05-02 15:29:29.222 [Network Listener - #1] I - [37;1mBedrock user with ip: /127.0.0.1 has disconnected for reason CLOSED_BY_REMOTE_PEER[0m
+2020-05-02 15:29:51.927 [Network Listener - #1] I - [37;1m/127.0.0.1:57558 tried to connect![0m
+2020-05-02 15:29:52.578 [Network Listener - #1] I - [37;1mBedrock user with ip: /127.0.0.1 has disconnected for reason CLOSED_BY_REMOTE_PEER[0m
+2020-05-02 15:40:06.366 [Network Listener - #1] I - [37;1m/127.0.0.1:61106 tried to connect![0m
+2020-05-02 15:40:07.674 [Network Listener - #1] I - [37;1mPlayer connected with username huoshen80[0m
+2020-05-02 15:40:47.648 [Network Listener - #1] I - [37;1mBedrock user with ip: /127.0.0.1 has disconnected for reason CLOSED_BY_REMOTE_PEER[0m
+2020-05-02 15:40:55.905 [Network Listener - #1] I - [37;1m/127.0.0.1:61106 tried to connect![0m
+2020-05-02 15:40:56.977 [Network Listener - #1] I - [37;1mPlayer connected with username huoshen80[0m
+2020-05-02 15:41:03.167 [Network Listener - #1] I - [37;1mAttempting to login using offline mode... authentication is disabled.[0m
+2020-05-02 15:41:03.878 [nioEventLoopGroup-2-1] I - [37;1mhuoshen80 (logged in as: huoshen80) has connected to remote java server on address 127.0.0.1[0m
+2020-05-02 15:41:05.153 [Thread-4] I - [37;1mSpawned player at -526.0493588505725 57.0 922.0213750839396[0m
+2020-05-02 15:46:34.224 [Network Listener - #8] I - [37;1mBedrock user with ip: /127.0.0.1 has disconnected for reason TIMED_OUT[0m
+2020-05-02 15:46:34.247 [nioEventLoopGroup-2-1] I - [37;1mhuoshen80 has disconnected from remote java server on address 127.0.0.1 because of TIMED_OUT[0m
+2020-05-02 19:42:07.354 [Network Listener - #1] I - [37;1m/127.0.0.1:59521 tried to connect![0m
+2020-05-02 19:42:08.811 [Network Listener - #1] I - [37;1mPlayer connected with username huoshen80[0m
+2020-05-02 19:42:13.643 [Network Listener - #1] I - [37;1mAttempting to login using offline mode... authentication is disabled.[0m
+2020-05-02 19:42:13.843 [nioEventLoopGroup-3-1] I - [37;1mhuoshen80 (logged in as: huoshen80) has connected to remote java server on address 127.0.0.1[0m
+2020-05-02 19:42:14.350 [Thread-15] I - [37;1mSpawned player at -536.59716796875 57.0 928.6817626953125[0m
+2020-05-02 19:49:22.549 [Thread-15] I - [37;1mSpawned player at -233.5 68.0 227.5[0m
+2020-05-02 20:02:20.129 [Network Listener - #4] I - [37;1mBedrock user with ip: /127.0.0.1 has disconnected for reason TIMED_OUT[0m
+2020-05-02 20:02:20.165 [nioEventLoopGroup-3-1] I - [37;1mhuoshen80 has disconnected from remote java server on address 127.0.0.1 because of TIMED_OUT[0m
+2020-05-02 23:06:43.127 [main] I - [37;1mShutting down Geyser.[0m
+2020-05-02 23:06:43.221 [main] I - [37;1mGeyser shutdown successfully.[0m
