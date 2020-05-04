@@ -1,50 +1,61 @@
-[19:41:31] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[19:41:31] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[19:41:31] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
-[19:41:31] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[19:41:31] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[19:41:31] [Server thread/INFO]: Starting minecraft server version 1.15.2
-[19:41:31] [Server thread/INFO]: Loading properties
-[19:41:31] [Server thread/INFO]: Default game type: SURVIVAL
-[19:41:31] [Server thread/INFO]: Generating keypair
-[19:41:32] [Server thread/INFO]: Starting Minecraft server on *:19190
-[19:41:32] [Server thread/INFO]: Using default channel type
-[19:41:36] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[19:41:36] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[19:41:36] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[19:41:36] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[19:41:36] [Server thread/INFO]: Preparing level "world"
-[19:41:36] [Server thread/INFO]: Reloading ResourceManager: Default
-[19:41:37] [Server thread/INFO]: Loaded 6 recipes
-[19:41:37] [Server thread/INFO]: Loaded 825 advancements
-[19:41:38] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[19:41:39] [Server thread/INFO]: Preparing spawn area: 0%
-[19:41:39] [Server thread/INFO]: Preparing spawn area: 0%
-[19:41:39] [Server thread/INFO]: Preparing spawn area: 0%
-[19:41:39] [Server thread/INFO]: Preparing spawn area: 83%
-[19:41:39] [Server thread/INFO]: Time elapsed: 1664 ms
-[19:41:40] [Server thread/INFO]: Done (3.397s)! For help, type "help"
-[19:43:46] [Server thread/INFO]: YuZiOvO[/127.0.0.1:58861] logged in with entity id 21 at (-547.2279052734375, 65.0, 989.1187744140625)
-[19:43:46] [Server thread/INFO]: YuZiOvO joined the game
-[19:44:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2063ms or 41 ticks behind
-[19:44:03] [Server thread/INFO]: [YuZiOvO: The difficulty has been set to Peaceful]
-[19:45:31] [Server thread/INFO]: [YuZiOvO: Set own game mode to Survival Mode]
-[20:12:02] [Server thread/INFO]: YuZiOvO lost connection: Disconnected
-[20:12:02] [Server thread/INFO]: YuZiOvO left the game
-[20:45:09] [Server thread/INFO]: AWSL[/127.0.0.1:59674] logged in with entity id 1549 at (-590.7866354034612, 67.0, 927.9954582209062)
-[20:45:09] [Server thread/INFO]: AWSL joined the game
-[20:45:24] [Server thread/INFO]: AWSL lost connection: Timed out
-[20:45:24] [Server thread/INFO]: AWSL left the game
-[20:45:45] [Server thread/INFO]: AWSL[/127.0.0.1:59683] logged in with entity id 1818 at (-590.7866354034612, 67.0, 927.9954582209062)
-[20:45:45] [Server thread/INFO]: AWSL joined the game
-[20:46:36] [Server thread/INFO]: AWSL lost connection: Disconnected
-[20:46:36] [Server thread/INFO]: AWSL left the game
-[22:03:05] [Server thread/INFO]: huoshen80[/127.0.0.1:60626] logged in with entity id 2116 at (-596.2089461284605, 67.0, 929.5646011891491)
-[22:03:05] [Server thread/INFO]: huoshen80 joined the game
-[22:03:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2597ms or 51 ticks behind
-[22:04:35] [Server thread/INFO]: huoshen80 lost connection: Timed out
-[22:04:35] [Server thread/INFO]: huoshen80 left the game
-[22:11:19] [Server thread/INFO]: Stopping server
-[22:11:19] [Server thread/INFO]: Saving players
-[22:11:19] [Server thread/INFO]: Saving worlds
-[22:11:19] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
+[22:31:57] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[22:31:57] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[22:31:57] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[22:31:57] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[22:31:57] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[22:31:57] [Server thread/INFO]: Starting minecraft server version 1.15.2
+[22:31:57] [Server thread/INFO]: Loading properties
+[22:31:57] [Server thread/INFO]: Default game type: SURVIVAL
+[22:31:57] [Server thread/INFO]: Generating keypair
+[22:31:57] [Server thread/INFO]: Starting Minecraft server on *:19190
+[22:31:57] [Server thread/INFO]: Using default channel type
+[22:31:59] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[22:31:59] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[22:31:59] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[22:31:59] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[22:31:59] [Server thread/INFO]: Preparing level "world"
+[22:32:00] [Server thread/INFO]: Reloading ResourceManager: Default
+[22:32:00] [Server thread/INFO]: Loaded 6 recipes
+[22:32:01] [Server thread/INFO]: Loaded 825 advancements
+[22:32:01] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[22:32:03] [Server thread/INFO]: Preparing spawn area: 0%
+[22:32:03] [Server thread/INFO]: Preparing spawn area: 0%
+[22:32:03] [Server thread/INFO]: Preparing spawn area: 0%
+[22:32:03] [Server thread/INFO]: Preparing spawn area: 0%
+[22:32:04] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[22:32:04] [Server thread/INFO]: Preparing spawn area: 77%
+[22:32:04] [Server thread/INFO]: Time elapsed: 2585 ms
+[22:32:04] [Server thread/INFO]: Done (4.740s)! For help, type "help"
+[22:32:04] [Server thread/INFO]: YuZiOvO[/127.0.0.1:51521] logged in with entity id 20 at (-587.5, 67.0, 927.5)
+[22:32:04] [Server thread/INFO]: YuZiOvO joined the game
+[22:32:15] [Server thread/INFO]: weirong[/127.0.0.1:51546] logged in with entity id 441 at (-614.9291659222897, 66.0, 1365.1132334143085)
+[22:32:15] [Server thread/INFO]: weirong joined the game
+[22:32:24] [Server thread/INFO]: [weirong: Teleported weirong to YuZiOvO]
+[22:33:34] [Server thread/INFO]: weirong was shot by YuZiOvO
+[22:35:31] [Server thread/INFO]: [YuZiOvO: The difficulty has been set to Peaceful]
+[22:35:54] [Server thread/INFO]: [YuZiOvO: The difficulty has been set to Easy]
+[22:36:52] [Server thread/INFO]: [YuZiOvO: Summoned new Lightning Bolt]
+[22:37:01] [Server thread/INFO]: [YuZiOvO: Summoned new Lightning Bolt]
+[22:37:03] [Server thread/INFO]: Villager axw['Toolsmith'/391, l='world', x=-407.86, y=74.00, z=858.47] died, message: 'Toolsmith was slain by Zombie'
+[22:37:04] [Server thread/INFO]: [YuZiOvO: Summoned new Lightning Bolt]
+[22:37:05] [Server thread/INFO]: [YuZiOvO: Summoned new Lightning Bolt]
+[22:37:56] [Server thread/INFO]: [YuZiOvO: Summoned new Lightning Bolt]
+[22:38:02] [Server thread/INFO]: weirong was shot by YuZiOvO
+[22:38:21] [Server thread/INFO]: [weirong: Gave 64 [Arrow] to weirong]
+[22:38:28] [Server thread/INFO]: weirong fell from a high place
+[22:38:29] [Server thread/WARN]: Fetching packet for removed entity akw['Experience Orb'/1953, l='world', x=-541.18, y=63.00, z=927.62]
+[22:39:16] [Server thread/INFO]: weirong was shot by YuZiOvO
+[22:39:42] [Server thread/INFO]: [YuZiOvO: Gave 1 [Diamond Sword] to YuZiOvO]
+[22:40:17] [Server thread/INFO]: YuZiOvO was slain by weirong
+[22:40:22] [Server thread/INFO]: [YuZiOvO: Teleported YuZiOvO to weirong]
+[22:40:22] [Server thread/WARN]: YuZiOvO moved too quickly! 11.012582786622374,-7.580000213113024,33.32100793325708
+[22:40:37] [Server thread/INFO]: weirong was shot by YuZiOvO
+[22:41:12] [Server thread/INFO]: weirong was shot by YuZiOvO
+[22:41:55] [Server thread/INFO]: weirong was shot by YuZiOvO
+[22:42:05] [Server thread/WARN]: weirong moved too quickly! -0.010104119153766078,-10.907896639177466,-0.616521613345526
+[22:43:04] [Server thread/INFO]: [YuZiOvO: Gave 1 [Bow] to YuZiOvO]
+[22:43:31] [Server thread/INFO]: YuZiOvO was shot by weirong
+[22:43:52] [Server thread/INFO]: YuZiOvO lost connection: Disconnected
+[22:43:52] [Server thread/INFO]: YuZiOvO left the game
+[22:43:53] [Server thread/INFO]: weirong lost connection: Disconnected
+[22:43:53] [Server thread/INFO]: weirong left the game
