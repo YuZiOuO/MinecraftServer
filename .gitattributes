@@ -1,0 +1,6 @@
+*.bat linguist-language=Shell
+*.md linguist-language=Shell
+*.json linguist-language=Shell
+*.txt linguist-language=Shell
+*.log.gz linguist-language=Shell
+*.dat linguist-language=Shell
